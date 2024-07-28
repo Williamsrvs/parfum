@@ -142,3 +142,12 @@ with col7:
 
 
 st.video('video.mp4')
+
+st.markdown("""
+    <div style="text-align: center;">
+        © Autor deste Projeto dateanalytics - Soluções em tecnologia
+            
+Solicite agora mesmo o seu projeto   
+Tel.(082) 98863-9394
+    </div>
+""", unsafe_allow_html=True)
