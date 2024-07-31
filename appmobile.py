@@ -133,7 +133,7 @@ with col6:
 # Conteúdo da aba Localização
 with col7:
     st.markdown("""
-        <a href="http://wa.me/c/5582981090042">
+        <a href="https://wa.me/c/5582981090042">
             <button style="background-color: #DF138D; color: white; padding: 1px 2px; border: none; border-radius: 5px; cursor: pointer;">
                 Pronta Entrega
             </button>
